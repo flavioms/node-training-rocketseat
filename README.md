@@ -1,4 +1,4 @@
-# Curso RocketSeat Omnitack 
+# Curso RocketSeat OmniStack 
 
 > Day 1 - Node
 
